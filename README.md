@@ -4,7 +4,8 @@
 </p>
 
 <p align="Alura">
- <img src="./img/print.png" alt="Welcome!" />
+
+ <img src="./img/print.png" alt="Print Site Alura Plus" />
 
 </p>
 
